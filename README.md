@@ -1,2 +1,2 @@
 # Quadruped-Spiderbot
-Graduted project. Not completely finished. 
+Graduted project 
